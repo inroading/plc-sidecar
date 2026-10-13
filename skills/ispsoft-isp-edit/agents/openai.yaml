@@ -1,0 +1,4 @@
+interface:
+  display_name: "ISPSoft ISP Edit"
+  short_description: "Inspect and edit supported ISPSoft project copies"
+  default_prompt: "Use $ispsoft-isp-edit to inspect and edit this ISPSoft .isp project, then verify the new copy."
